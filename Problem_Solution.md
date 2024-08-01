@@ -22,7 +22,7 @@ Parse this and give me the JSON output.
 Note :  I have used my own resume to test the prompt.
 
 ### ChatGPT output for the given prompt to parse the resume in JSON format :
-
+<pre>
 {
   "personal_information": {
     "name": "Pranit Lonkar",
@@ -156,5 +156,6 @@ Note :  I have used my own resume to test the prompt.
     }
   ]
 }
+</pre>
 
 
