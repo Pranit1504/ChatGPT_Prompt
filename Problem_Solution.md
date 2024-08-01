@@ -50,7 +50,7 @@ Note :  I have used my own resume to test the prompt.
       "degree": "B.Tech",
       "university": "B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa",
       "year": "Expected July 2025",
-      "department": "Artificial Intelligence and Data Science (3rd Yr)",
+      "department": "Artificial Intelligence and Data Science (4th Yr)",
       "cgpa": "9.2"
     }
   ],
